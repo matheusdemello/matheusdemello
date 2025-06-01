@@ -1,34 +1,93 @@
-Matheus de Mello, Ph.D.
+# Matheus de Mello, Ph.D.
 
-## About Me
+> **Physicist | AI Engineer | Geospatial Data Specialist | HPC Enthusiast**
 
-I am a Brazilian living in Japan, Physics Ph.D. from Kyoto University, previously MEXT scholar, with extensive expertise in **computational modeling, AI engineering, and high-performance computing (HPC)**, bridging the gap between fundamental physical sciences and applied data-driven solutions. 
+🌎 **Brazilian based in Japan** | 🎓 **Ph.D. in Physics from Kyoto University** | 🇯🇵 **Former MEXT Scholar**
 
-My background includes **atomistic simulations, quantum materials modeling, and theoretical physics**, particularly focused on complex soft-matter systems like liquid crystals.
+---
 
-Leveraging this strong analytical and computational foundation, I have transitioned my skills to tackle complex challenges in **geospatial data processing, 3D modeling, and renewable energy analysis**. 
+## 📌 About Me
 
-## Core Expertise & Technical Skills
+I am a computational physicist with extensive expertise in **computational modeling**, **AI engineering**, and **high-performance computing (HPC)**, bridging the gap between fundamental physics and applied, data-driven solutions.
 
-**Physics & Computational Modeling (Ph.D. Focus):**
-    *   **Atomistic & Molecular Simulation:** Extensive experience with Molecular Dynamics (MD) and Monte Carlo (MC) simulations. Used GROMACS, Gaussian, LAMMPS.
-    *   **Liquid Crystal Physics:** Phase transitions in ferroelectric nematic liquid crystals, defects, surface phenomena and electro-optical properties. Developed and implemented custom simulation models.
-    *   **Quantum Materials Modeling:** Experience with Density Functional Theory (DFT) concepts and tools for investigating electronic structure and properties of novel materials.
-    *   **Theoretical Physics:** Strong foundation in statistical mechanics, condensed matter physics, electromagnetism, and quantum mechanics.
-    *   **High-Performance Computing:** Proficient in utilizing HPC clusters, parallel programming (MPI, OpenMP), and optimizing code for performance.
-    *   **Algorithm Development:** Designing and implementing custom algorithms for simulation, data analysis, and feature extraction from complex physical systems.
+Initially focused on **atomistic simulations**, **quantum materials modeling**, and **theoretical physics**, particularly complex soft-matter systems like liquid crystals, I have transitioned my analytical and computational skills toward **geospatial data processing**, **3D modeling**, and **renewable energy analysis**.
 
-**Geospatial Data Science & 3D Modeling:**
-    *   **3D Point Cloud Processing:** Ingestion, filtering (statistical, density-based, classification-based), segmentation (DBSCAN, RANSAC, region growing), and feature extraction from LiDAR and photogrammetric point clouds (LAS/LAZ).
-    *   **Digital Elevation Model (DEM/DSM) Processing:** Generation, analysis, and interpretation of raster elevation data (GeoTIFFs). Expertise in orthorectification, Z-buffer rasterization, and gap-filling techniques.
-    *   **3D Mesh Reconstruction & Manipulation:** Creating 3D surface meshes from point clouds (e.g., Poisson, Ball Pivoting, Alpha Shapes using Open3D, Trimesh), mesh cleaning, simplification, and validation.
-    *   **Monocular Depth Estimation (Deep Learning):** Experience in designing and implementing pipelines for depth estimation from RGB imagery using deep learning models (e.g., ViT-based architectures), including image preprocessing, Test-Time Augmentation (TTA), tiling, and model management.
-    *   **3D Tiles / glTF Processing:** Parsing and utilizing 3D Tiles (b3dm, glTF/GLB) for large-scale 3D geospatial data visualization and analysis.
+---
 
-**[Ph.D. Research]
-    *   **Publications/Preprints:** de Mello, Matheus, Mark Richard Wilson, and Takeaki Araki. "Impact of charge distribution on the stability of ferroelectric nematic liquid crystals." Soft Matter (2025). 
-    de Mello, Matheus, Rogelio Díaz-Méndez, and Alejandro Mendoza-Coto. "Ultrasoft classical systems at zero temperature." Entropy 25.2 (2023): 356.
+## 🚀 Core Expertise & Technical Skills
 
-Let`s connect if you are interested in AI, physics, tech in Japan or just want to chat about building purposeful careers acroos borders.
+### 🔬 Physics & Computational Modeling (Ph.D. Focus)
 
-Thank you for visiting my profile!
+* **Atomistic & Molecular Simulations**
+
+  * Molecular Dynamics (MD), Monte Carlo (MC)
+  * Tools: GROMACS, Gaussian, LAMMPS
+
+* **Liquid Crystal Physics**
+
+  * Ferroelectric nematic liquid crystals, defects, electro-optical phenomena
+  * Developed custom simulation models
+
+* **Quantum Materials Modeling**
+
+  * Density Functional Theory (DFT)
+  * Electronic structure analysis of novel materials
+
+* **Theoretical Physics**
+
+  * Statistical mechanics, condensed matter physics, electromagnetism, quantum mechanics
+
+* **High-Performance Computing**
+
+  * Parallel programming (MPI, OpenMP), HPC clusters, performance optimization
+
+* **Algorithm Development**
+
+  * Custom algorithms for simulations, data analysis, and feature extraction
+
+---
+
+### 🗺️ Geospatial Data Science & 3D Modeling
+
+* **3D Point Cloud Processing**
+
+  * LiDAR and photogrammetry (LAS/LAZ)
+  * Filtering (statistical, density-based), segmentation (DBSCAN, RANSAC)
+
+* **Digital Elevation Model (DEM/DSM) Processing**
+
+  * Raster elevation data (GeoTIFF), orthorectification, rasterization, gap-filling
+
+* **3D Mesh Reconstruction & Manipulation**
+
+  * Surface mesh creation (Poisson, Ball Pivoting, Alpha Shapes)
+  * Mesh cleaning, simplification, validation (Open3D, Trimesh)
+
+* **Monocular Depth Estimation (Deep Learning)**
+
+  * ViT-based models, depth estimation pipelines, image preprocessing, TTA, tiling
+
+* **3D Tiles / glTF Processing**
+
+  * Large-scale 3D geospatial visualization (b3dm, glTF/GLB formats)
+
+---
+
+## 📚 Selected Publications
+
+* **Matheus de Mello**, Mark Richard Wilson, and Takeaki Araki.
+  "*Impact of charge distribution on the stability of ferroelectric nematic liquid crystals.*"
+  **Soft Matter (2025)**
+
+* **Matheus de Mello**, Rogelio Díaz-Méndez, and Alejandro Mendoza-Coto.
+  "*Ultrasoft classical systems at zero temperature.*"
+  **Entropy 25.2 (2023): 356**
+
+---
+
+## 🤝 Let's Connect!
+
+* Interested in **AI**, **Physics**, or **Technology in Japan**?
+* Curious about building **purposeful international careers**?
+
+Feel free to reach out!
