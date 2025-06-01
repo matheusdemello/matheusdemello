@@ -2,7 +2,9 @@ Matheus de Mello, Ph.D.
 
 ## About Me
 
-I am a Brazilian living in Japan, Physics Ph.D. from Kyoto University, previously MEXT scholar, with extensive expertise in **computational modeling, AI engineering, and high-performance computing (HPC)**, bridging the gap between fundamental physical sciences and applied data-driven solutions. My background includes **atomistic simulations, quantum materials modeling, and theoretical physics**, particularly focused on complex soft-matter systems like liquid crystals.
+I am a Brazilian living in Japan, Physics Ph.D. from Kyoto University, previously MEXT scholar, with extensive expertise in **computational modeling, AI engineering, and high-performance computing (HPC)**, bridging the gap between fundamental physical sciences and applied data-driven solutions. 
+
+My background includes **atomistic simulations, quantum materials modeling, and theoretical physics**, particularly focused on complex soft-matter systems like liquid crystals.
 
 Leveraging this strong analytical and computational foundation, I have transitioned my skills to tackle complex challenges in **geospatial data processing, 3D modeling, and renewable energy analysis**. 
 
