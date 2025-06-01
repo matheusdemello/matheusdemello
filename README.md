@@ -1,18 +1,12 @@
-# Matheus de Mello, Ph.D.
-
 > **Physicist | AI Engineer | Geospatial Data Specialist | HPC Enthusiast**
 
 🌎 **Brazilian based in Japan** | 🎓 **Ph.D. in Physics from Kyoto University** | 🇯🇵 **Former MEXT Scholar**
-
----
 
 ## 📌 About Me
 
 I am a computational physicist with extensive expertise in **computational modeling**, **AI engineering**, and **high-performance computing (HPC)**, bridging the gap between fundamental physics and applied, data-driven solutions.
 
 Initially focused on **atomistic simulations**, **quantum materials modeling**, and **theoretical physics**, particularly complex soft-matter systems like liquid crystals, I have transitioned my analytical and computational skills toward **geospatial data processing**, **3D modeling**, and **renewable energy analysis**.
-
----
 
 ## 🚀 Core Expertise & Technical Skills
 
@@ -71,8 +65,6 @@ Initially focused on **atomistic simulations**, **quantum materials modeling**, 
 
   * Large-scale 3D geospatial visualization (b3dm, glTF/GLB formats)
 
----
-
 ## 📚 Selected Publications
 
 * **Matheus de Mello**, Mark Richard Wilson, and Takeaki Araki.
@@ -82,8 +74,6 @@ Initially focused on **atomistic simulations**, **quantum materials modeling**, 
 * **Matheus de Mello**, Rogelio Díaz-Méndez, and Alejandro Mendoza-Coto.
   "*Ultrasoft classical systems at zero temperature.*"
   **Entropy 25.2 (2023): 356**
-
----
 
 ## 🤝 Let's Connect!
 
